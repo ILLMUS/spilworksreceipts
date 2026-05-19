@@ -59,8 +59,8 @@ const Index = () => {
               <ReceiptIcon className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-display font-bold text-foreground leading-tight">RST SPILWORKS</h1>
-              <p className="text-xs text-muted-foreground">Receipt Scanner</p>
+              <h1 className="font-display font-bold text-foreground leading-tight">Receipt Scanner</h1>
+              <p className="text-xs text-muted-foreground">A hustleOS System</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
