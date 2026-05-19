@@ -60,7 +60,7 @@ const Index = () => {
             </div>
             <div>
               <h1 className="font-display font-bold text-foreground leading-tight">Receipt Scanner</h1>
-              <p className="text-xs text-muted-foreground">A hustleOS System</p>
+              <p className="text-xs text-muted-foreground">A HustleOS System</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
