@@ -59,7 +59,7 @@ const Index = () => {
               <ReceiptIcon className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-display font-bold text-foreground leading-tight">Receipt Scanner</h1>
+              <h1 className="font-display font-bold text-foreground leading-tight">Receipt Scan & AI Exract</h1>
               <p className="text-xs text-muted-foreground">A HustleOS System</p>
             </div>
           </div>
